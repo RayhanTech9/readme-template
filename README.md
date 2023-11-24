@@ -87,7 +87,8 @@ https://www.linkedin.com/in/rayhan-uddinswe/
 | Name | Email | 
 | ------| -------|
 | Rayhan Uddin| rayhanu509@gmail.com |
-| Mujahid Amin | mujahidamin@gmail.com
+| Mujahid Amin | mujahidamin@gmail.com |
+| MD Noor | mdnoor5366@gmail.com |
 
 
 
