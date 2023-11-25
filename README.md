@@ -86,6 +86,7 @@ https://www.linkedin.com/in/rayhan-uddinswe/
 ### Table Syntax
 | Name | Email | 
 | ------| -------|
+| Jihan Uddin | jihan@gmail.com |
 | Rayhan Uddin| rayhanu509@gmail.com |
 | Mujahid Amin | mujahidamin@gmail.com |
 | MD Noor | mdnoor5366@gmail.com |
