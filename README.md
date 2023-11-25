@@ -90,7 +90,7 @@ https://www.linkedin.com/in/rayhan-uddinswe/
 | Mujahid Amin | mujahidamin@gmail.com |
 | MD Noor | mdnoor5366@gmail.com |
 | Nishan | nishan@gmail.com |
-| Arfatul Islam | arfatulislam@gmail.com |
+
 
 
 
