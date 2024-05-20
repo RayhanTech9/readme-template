@@ -26,6 +26,8 @@ This is Multiple Line Code
 
 ### This is inline Multiple
 
+
+
 ```  
 ```html
 <html>
@@ -73,14 +75,19 @@ https://www.linkedin.com/in/rayhan-uddinswe/
 
 
 ### Markdown Link Suntax another way
-[LinkDein][LinkDeinLink]
-[Facebook][facebookLink]
+[LinkDein][LinkDeinLink] </br>
+[Facebook][FacebookLink]
 
+
+
+<!--All Link Here-->
+[FacebookLink]: https://www.facebook.com/RayhanTech9
 
 ### Image Syntax
 <!--[Profile](./Images/profile.png)-->
 <img src="Images/profile.png" width="200px" title="Profile Picture"/>  <br/>
 ❤️❤️❤️
+
 <br/>
 
 ### Table Syntax
